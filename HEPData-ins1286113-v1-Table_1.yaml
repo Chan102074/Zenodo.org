@@ -1,0 +1,199 @@
+dependent_variables:
+- header: {name: 'Bandpower, ell*(ell+1)*C(ell)/(2*PI)', units: MUK**2}
+  qualifiers:
+  - {name: '', value: TT}
+  values:
+  - errors:
+    - {symerror: 24.0}
+    value: 1010.0
+  - errors:
+    - {symerror: 10.0}
+    value: 1400.0
+  - errors:
+    - {symerror: 10.0}
+    value: 3040.0
+  - errors:
+    - {symerror: 11.0}
+    value: 5070.0
+  - errors:
+    - {symerror: 10.0}
+    value: 5510.0
+  - errors:
+    - {symerror: 12.0}
+    value: 6230.0
+  - errors:
+    - {symerror: 14.0}
+    value: 5960.0
+  - errors:
+    - {symerror: 11.0}
+    value: 4420.0
+  - errors:
+    - {symerror: 12.0}
+    value: 3840.0
+- header: {name: 'Bandpower, ell*(ell+1)*C(ell)/(2*PI)', units: MUK**2}
+  qualifiers:
+  - {name: '', value: TE}
+  values:
+  - errors:
+    - {symerror: 2.26}
+    value: 2.85
+  - errors:
+    - {symerror: 3.14}
+    value: -5.84
+  - errors:
+    - {symerror: 5.3}
+    value: -32.6
+  - errors:
+    - {symerror: 5.8}
+    value: -51.6
+  - errors:
+    - {symerror: 5.4}
+    value: -27.7
+  - errors:
+    - {symerror: 5.8}
+    value: 12.5
+  - errors:
+    - {symerror: 7.2}
+    value: 54.4
+  - errors:
+    - {symerror: 8.0}
+    value: 107.0
+  - errors:
+    - {symerror: 11.0}
+    value: 141.0
+- header: {name: 'Bandpower, ell*(ell+1)*C(ell)/(2*PI)', units: MUK**2}
+  qualifiers:
+  - {name: '', value: EE}
+  values:
+  - errors:
+    - {symerror: 0.037}
+    value: 0.156
+  - errors:
+    - {symerror: 0.079}
+    value: 0.509
+  - errors:
+    - {symerror: 0.14}
+    value: 0.916
+  - errors:
+    - {symerror: 0.15}
+    value: 1.06
+  - errors:
+    - {symerror: 0.114}
+    value: 0.617
+  - errors:
+    - {symerror: 0.113}
+    value: 0.954
+  - errors:
+    - {symerror: 0.25}
+    value: 2.08
+  - errors:
+    - {symerror: 0.53}
+    value: 6.6
+  - errors:
+    - {symerror: 1.1}
+    value: 13.7
+- header: {name: 'Bandpower, ell*(ell+1)*C(ell)/(2*PI)', units: MUK**2}
+  qualifiers:
+  - {name: '', value: BB}
+  values:
+  - errors:
+    - {symerror: 0.00189}
+    value: 0.00865
+  - errors:
+    - {symerror: 0.0017}
+    value: 0.0133
+  - errors:
+    - {symerror: 0.0025}
+    value: 0.015
+  - errors:
+    - {symerror: 0.0037}
+    value: 0.0139
+  - errors:
+    - {symerror: 0.0056}
+    value: 0.0206
+  - errors:
+    - {symerror: 0.0084}
+    value: 0.0337
+  - errors:
+    - {symerror: 0.0113}
+    value: 0.0507
+  - errors:
+    - {symerror: 0.0174}
+    value: 0.0335
+  - errors:
+    - {symerror: 0.0279}
+    value: 0.0326
+- header: {name: 'Bandpower, ell*(ell+1)*C(ell)/(2*PI)', units: MUK**2}
+  qualifiers:
+  - {name: '', value: TB}
+  values:
+  - errors:
+    - {symerror: 0.498}
+    value: -0.433
+  - errors:
+    - {symerror: 0.526}
+    value: -0.563
+  - errors:
+    - {symerror: 0.815}
+    value: 0.242
+  - errors:
+    - {symerror: 1.12}
+    value: -1.28
+  - errors:
+    - {symerror: 1.37}
+    value: 1.37
+  - errors:
+    - {symerror: 1.7}
+    value: 1.51
+  - errors:
+    - {symerror: 1.96}
+    value: 0.534
+  - errors:
+    - {symerror: 1.82}
+    value: 2.57
+  - errors:
+    - {symerror: 2.28}
+    value: -0.0179
+- header: {name: 'Bandpower, ell*(ell+1)*C(ell)/(2*PI)', units: MUK**2}
+  qualifiers:
+  - {name: '', value: EB}
+  values:
+  - errors:
+    - {symerror: 0.0059}
+    value: 0.0143
+  - errors:
+    - {symerror: 0.00807}
+    value: 0.00292
+  - errors:
+    - {symerror: 0.0128}
+    value: 0.0108
+  - errors:
+    - {symerror: 0.0169}
+    value: 0.00264
+  - errors:
+    - {symerror: 0.0166}
+    value: -0.00297
+  - errors:
+    - {symerror: 0.0204}
+    value: 0.0588
+  - errors:
+    - {symerror: 0.0393}
+    value: -0.0385
+  - errors:
+    - {symerror: 0.0676}
+    value: -0.0555
+  - errors:
+    - {symerror: 0.124}
+    value: 0.0994
+independent_variables:
+- header: {name: 'Multipole, ell'}
+  values:
+  - {high: 55.0, low: 21.0, value: 45.1}
+  - {high: 90.0, low: 56.0, value: 73.9}
+  - {high: 125.0, low: 91.0, value: 109.1}
+  - {high: 160.0, low: 126.0, value: 144.2}
+  - {high: 195.0, low: 161.0, value: 179.1}
+  - {high: 230.0, low: 196.0, value: 213.7}
+  - {high: 265.0, low: 231.0, value: 248.4}
+  - {high: 300.0, low: 266.0, value: 283.1}
+  - {high: 335.0, low: 301.0, value: 317.4}
