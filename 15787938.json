@@ -1,0 +1,3496 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2025-07-02T03:05:46.615677+00:00",
+  "custom_fields": {},
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 73,
+    "default_preview": "4c5fbcee-0546-4c30-ab22-f976ad6ee9d0.png",
+    "enabled": true,
+    "entries": {
+      "070568cb-fcbc-42c0-8b4d-4a488d523557.png": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:832409408737b0a4890f997f58af6d39",
+        "ext": "png",
+        "id": "74423374-d207-44eb-b9e6-45bfdedb3d31",
+        "key": "070568cb-fcbc-42c0-8b4d-4a488d523557.png",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/070568cb-fcbc-42c0-8b4d-4a488d523557.png/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:070568cb-fcbc-42c0-8b4d-4a488d523557.png/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:070568cb-fcbc-42c0-8b4d-4a488d523557.png",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/070568cb-fcbc-42c0-8b4d-4a488d523557.png",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:070568cb-fcbc-42c0-8b4d-4a488d523557.png/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/070568cb-fcbc-42c0-8b4d-4a488d523557.png"
+        },
+        "metadata": {
+          "height": 390,
+          "width": 989
+        },
+        "mimetype": "image/png",
+        "size": 34832,
+        "storage_class": "L"
+      },
+      "0cc33f29-5581-45c2-b89f-fe4e2aa2f229.png": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7378d6d491ad39acf72e5720c5742fbd",
+        "ext": "png",
+        "id": "b1f22327-c3db-422f-b76a-773a1d6426ab",
+        "key": "0cc33f29-5581-45c2-b89f-fe4e2aa2f229.png",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/0cc33f29-5581-45c2-b89f-fe4e2aa2f229.png/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:0cc33f29-5581-45c2-b89f-fe4e2aa2f229.png/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:0cc33f29-5581-45c2-b89f-fe4e2aa2f229.png",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/0cc33f29-5581-45c2-b89f-fe4e2aa2f229.png",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:0cc33f29-5581-45c2-b89f-fe4e2aa2f229.png/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/0cc33f29-5581-45c2-b89f-fe4e2aa2f229.png"
+        },
+        "metadata": {
+          "height": 390,
+          "width": 789
+        },
+        "mimetype": "image/png",
+        "size": 26369,
+        "storage_class": "L"
+      },
+      "4c5fbcee-0546-4c30-ab22-f976ad6ee9d0.png": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:eb93747dacb83854e38393077775b897",
+        "ext": "png",
+        "id": "bdfc9ce9-73c0-40fa-9274-b2ebe9c533bd",
+        "key": "4c5fbcee-0546-4c30-ab22-f976ad6ee9d0.png",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/4c5fbcee-0546-4c30-ab22-f976ad6ee9d0.png/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:4c5fbcee-0546-4c30-ab22-f976ad6ee9d0.png/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:4c5fbcee-0546-4c30-ab22-f976ad6ee9d0.png",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/4c5fbcee-0546-4c30-ab22-f976ad6ee9d0.png",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:4c5fbcee-0546-4c30-ab22-f976ad6ee9d0.png/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/4c5fbcee-0546-4c30-ab22-f976ad6ee9d0.png"
+        },
+        "metadata": {
+          "height": 455,
+          "width": 567
+        },
+        "mimetype": "image/png",
+        "size": 30474,
+        "storage_class": "L"
+      },
+      "610c0039-ce87-49ff-9d1b-ceab5327ff52.wav": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:38c7b664fa1acad8fda2b41e702f9271",
+        "ext": "wav",
+        "id": "d9c6882c-44bd-48a4-b4c5-ccfa068e151b",
+        "key": "610c0039-ce87-49ff-9d1b-ceab5327ff52.wav",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/610c0039-ce87-49ff-9d1b-ceab5327ff52.wav/content",
+          "self": "https://zenodo.org/api/records/15787938/files/610c0039-ce87-49ff-9d1b-ceab5327ff52.wav"
+        },
+        "metadata": {},
+        "mimetype": "audio/x-wav",
+        "size": 352844,
+        "storage_class": "L"
+      },
+      "80465747-e4e3-4fa8-aec7-60879c1a77a4.png": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:41db19659e59b5b7ed42549952c2b69a",
+        "ext": "png",
+        "id": "02f28488-33fd-4935-bc8a-b75653f206a9",
+        "key": "80465747-e4e3-4fa8-aec7-60879c1a77a4.png",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/80465747-e4e3-4fa8-aec7-60879c1a77a4.png/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:80465747-e4e3-4fa8-aec7-60879c1a77a4.png/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:80465747-e4e3-4fa8-aec7-60879c1a77a4.png",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/80465747-e4e3-4fa8-aec7-60879c1a77a4.png",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:80465747-e4e3-4fa8-aec7-60879c1a77a4.png/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/80465747-e4e3-4fa8-aec7-60879c1a77a4.png"
+        },
+        "metadata": {
+          "height": 590,
+          "width": 989
+        },
+        "mimetype": "image/png",
+        "size": 36920,
+        "storage_class": "L"
+      },
+      "95672d8f-f46f-4adb-bceb-8639fad6b0b6.png": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:51510dca9e6c77dd97e90b86c6ac42b4",
+        "ext": "png",
+        "id": "279e6ec3-e3a2-45e1-aae4-244728ef91b7",
+        "key": "95672d8f-f46f-4adb-bceb-8639fad6b0b6.png",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/95672d8f-f46f-4adb-bceb-8639fad6b0b6.png/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:95672d8f-f46f-4adb-bceb-8639fad6b0b6.png/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:95672d8f-f46f-4adb-bceb-8639fad6b0b6.png",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/95672d8f-f46f-4adb-bceb-8639fad6b0b6.png",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:95672d8f-f46f-4adb-bceb-8639fad6b0b6.png/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/95672d8f-f46f-4adb-bceb-8639fad6b0b6.png"
+        },
+        "metadata": {
+          "height": 461,
+          "width": 569
+        },
+        "mimetype": "image/png",
+        "size": 30230,
+        "storage_class": "L"
+      },
+      "Again.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:db24cb0eea7fbb6764601f381ea08992",
+        "ext": "pdf",
+        "id": "d3b225c0-37e2-4907-a5ad-1bbccb4594f8",
+        "key": "Again.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Again.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Again.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Again.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Again.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Again.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Again.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 164562,
+        "storage_class": "L"
+      },
+      "Appendix_cmb_data.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e3352b948597ed9667afc5d70591ea59",
+        "ext": "pdf",
+        "id": "e9937938-3272-4df6-934b-8fed16e413dc",
+        "key": "Appendix_cmb_data.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Appendix_cmb_data.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Appendix_cmb_data.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Appendix_cmb_data.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Appendix_cmb_data.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Appendix_cmb_data.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Appendix_cmb_data.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 134903,
+        "storage_class": "L"
+      },
+      "Ayotte_topological_Phenomenon_that_begins_logic (1).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:044033f1dc0f39e33327dd99574eba5b",
+        "ext": "pdf",
+        "id": "177fc7c6-b448-4412-b74b-c876ecc961bb",
+        "key": "Ayotte_topological_Phenomenon_that_begins_logic (1).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Ayotte_topological_Phenomenon_that_begins_logic%20(1).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Ayotte_topological_Phenomenon_that_begins_logic%20(1).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Ayotte_topological_Phenomenon_that_begins_logic%20(1).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Ayotte_topological_Phenomenon_that_begins_logic%20(1).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Ayotte_topological_Phenomenon_that_begins_logic%20(1).pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Ayotte_topological_Phenomenon_that_begins_logic%20(1).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 255366,
+        "storage_class": "L"
+      },
+      "Begin_AGAIN.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:29dbae6ec94753a397b2f5157e322581",
+        "ext": "pdf",
+        "id": "296c2410-e48c-42be-9eef-ece100550dcd",
+        "key": "Begin_AGAIN.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Begin_AGAIN.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Begin_AGAIN.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Begin_AGAIN.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Begin_AGAIN.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Begin_AGAIN.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Begin_AGAIN.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 95213,
+        "storage_class": "L"
+      },
+      "Bullet.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:5e732f6bb6927bcf901db39754972bfb",
+        "ext": "pdf",
+        "id": "86bdaa50-308d-4f9d-a56a-c30979da07b5",
+        "key": "Bullet.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Bullet.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Bullet.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Bullet.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Bullet.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Bullet.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Bullet.pdf"
+        },
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 175119,
+        "storage_class": "L"
+      },
+      "CMB-1.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:74b2b98c9101744ece77263d23d83f06",
+        "ext": "pdf",
+        "id": "2f1206fc-cf48-4978-a105-bf7f54e47e2a",
+        "key": "CMB-1.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/CMB-1.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:CMB-1.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:CMB-1.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/CMB-1.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:CMB-1.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/CMB-1.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 160848,
+        "storage_class": "L"
+      },
+      "CMB.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b1b07c4acbaac2551a639afc31afde56",
+        "ext": "pdf",
+        "id": "b1d68cfc-a15f-428f-be03-562168d1a083",
+        "key": "CMB.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/CMB.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:CMB.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:CMB.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/CMB.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:CMB.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/CMB.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 139551,
+        "storage_class": "L"
+      },
+      "CMB_DATA.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:68a2c18480ad273b47f10594c262d89f",
+        "ext": "pdf",
+        "id": "7724bbfd-09c1-41ed-9f6e-5c262af1de14",
+        "key": "CMB_DATA.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/CMB_DATA.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:CMB_DATA.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:CMB_DATA.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/CMB_DATA.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:CMB_DATA.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/CMB_DATA.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 204095,
+        "storage_class": "L"
+      },
+      "Chandler_Ayotte-1.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:bf473da1a879e8e24b289a6ee138c61b",
+        "ext": "pdf",
+        "id": "26ef96c8-d9a3-4983-9ec0-22d65fc08a0a",
+        "key": "Chandler_Ayotte-1.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Chandler_Ayotte-1.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Chandler_Ayotte-1.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Chandler_Ayotte-1.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Chandler_Ayotte-1.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Chandler_Ayotte-1.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Chandler_Ayotte-1.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 139730,
+        "storage_class": "L"
+      },
+      "Co_lab-1.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:31df0ff189b4ed23b0f94f230cf61a02",
+        "ext": "pdf",
+        "id": "82e0623a-3008-4315-b4a0-0606f91c2845",
+        "key": "Co_lab-1.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Co_lab-1.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Co_lab-1.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Co_lab-1.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Co_lab-1.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Co_lab-1.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Co_lab-1.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 200825,
+        "storage_class": "L"
+      },
+      "Core (1) (4).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3d501f0426c83a1e3591467e43dc390d",
+        "ext": "pdf",
+        "id": "29c4d257-e5d4-428b-84a4-434aab3a150c",
+        "key": "Core (1) (4).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Core%20(1)%20(4).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Core%20(1)%20(4).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Core%20(1)%20(4).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Core%20(1)%20(4).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Core%20(1)%20(4).pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Core%20(1)%20(4).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 171927,
+        "storage_class": "L"
+      },
+      "Different.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8107b10cbc68d3bfe6777d89d06db554",
+        "ext": "pdf",
+        "id": "204a209e-839d-4f86-8e60-c149e416df94",
+        "key": "Different.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Different.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Different.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Different.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Different.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Different.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Different.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 181252,
+        "storage_class": "L"
+      },
+      "Done.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8b3967c6fa52affe40304553f2326c3d",
+        "ext": "pdf",
+        "id": "d5250a2a-0db0-4739-b241-9ad5d4e9ae00",
+        "key": "Done.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Done.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Done.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Done.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Done.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Done.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Done.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 210878,
+        "storage_class": "L"
+      },
+      "Final-1.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:bd77f73963006121ca7502ae22f66349",
+        "ext": "pdf",
+        "id": "6a9eddb4-152e-43c1-93fa-6581abd114a9",
+        "key": "Final-1.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Final-1.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Final-1.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Final-1.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Final-1.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Final-1.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Final-1.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 271528,
+        "storage_class": "L"
+      },
+      "For_you (1).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:26916c1f9f3c796a74ae22e4ea69dd53",
+        "ext": "pdf",
+        "id": "04be8312-ef4c-46a3-b2b2-1eca25fda2b0",
+        "key": "For_you (1).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/For_you%20(1).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:For_you%20(1).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:For_you%20(1).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/For_you%20(1).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:For_you%20(1).pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/For_you%20(1).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 230417,
+        "storage_class": "L"
+      },
+      "Full_documents_of_validation_and_full_updated_Horizon_Theory-2 (1).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:266a544a08781b96d84ebc5930857176",
+        "ext": "pdf",
+        "id": "84a8b943-d452-402c-8574-1b466e63ed4d",
+        "key": "Full_documents_of_validation_and_full_updated_Horizon_Theory-2 (1).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Full_documents_of_validation_and_full_updated_Horizon_Theory-2%20(1).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Full_documents_of_validation_and_full_updated_Horizon_Theory-2%20(1).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Full_documents_of_validation_and_full_updated_Horizon_Theory-2%20(1).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Full_documents_of_validation_and_full_updated_Horizon_Theory-2%20(1).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Full_documents_of_validation_and_full_updated_Horizon_Theory-2%20(1).pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Full_documents_of_validation_and_full_updated_Horizon_Theory-2%20(1).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 321234,
+        "storage_class": "L"
+      },
+      "Full_documents_of_validation_and_full_updated_Horizon_Theory-2.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:266a544a08781b96d84ebc5930857176",
+        "ext": "pdf",
+        "id": "abc21009-57f4-48e0-b501-ea2d354bfc54",
+        "key": "Full_documents_of_validation_and_full_updated_Horizon_Theory-2.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Full_documents_of_validation_and_full_updated_Horizon_Theory-2.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Full_documents_of_validation_and_full_updated_Horizon_Theory-2.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Full_documents_of_validation_and_full_updated_Horizon_Theory-2.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Full_documents_of_validation_and_full_updated_Horizon_Theory-2.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Full_documents_of_validation_and_full_updated_Horizon_Theory-2.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Full_documents_of_validation_and_full_updated_Horizon_Theory-2.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 321234,
+        "storage_class": "L"
+      },
+      "Full_theory-1.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ef087d1876d0ade7ca0e8d41afc1aa90",
+        "ext": "pdf",
+        "id": "51197118-a11c-45ed-be5f-b15f1b8c526b",
+        "key": "Full_theory-1.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Full_theory-1.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Full_theory-1.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Full_theory-1.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Full_theory-1.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Full_theory-1.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Full_theory-1.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 255035,
+        "storage_class": "L"
+      },
+      "Full_theory-2.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b5cef4d6306fa9cbe8813e95178b2052",
+        "ext": "pdf",
+        "id": "6a30f4c5-b3f7-4409-b73e-2c120006572a",
+        "key": "Full_theory-2.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Full_theory-2.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Full_theory-2.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Full_theory-2.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Full_theory-2.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Full_theory-2.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Full_theory-2.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 255035,
+        "storage_class": "L"
+      },
+      "Full_theory-3.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:bb7b5cf086fbbff7a978a0e6fb069441",
+        "ext": "pdf",
+        "id": "60a21a29-1c01-49ca-996a-2628996ff425",
+        "key": "Full_theory-3.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Full_theory-3.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Full_theory-3.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Full_theory-3.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Full_theory-3.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Full_theory-3.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Full_theory-3.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 254908,
+        "storage_class": "L"
+      },
+      "Full_theory-4.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6315eee93e31883ba065c0136f0eab5f",
+        "ext": "pdf",
+        "id": "03831499-83c0-4cce-9d0b-d4c377548ffc",
+        "key": "Full_theory-4.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Full_theory-4.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Full_theory-4.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Full_theory-4.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Full_theory-4.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Full_theory-4.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Full_theory-4.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 274794,
+        "storage_class": "L"
+      },
+      "Full_theory.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7f9ecea7773a8e3006e06bbd37a33b1d",
+        "ext": "pdf",
+        "id": "dd5b3227-e5c2-44ea-97c0-b835c1c21862",
+        "key": "Full_theory.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Full_theory.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Full_theory.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Full_theory.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Full_theory.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Full_theory.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Full_theory.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 255035,
+        "storage_class": "L"
+      },
+      "More (1).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:edbda1a3e9eddc990aa6415a6285ce89",
+        "ext": "pdf",
+        "id": "f0be5a16-d7b6-432d-abaa-e1902c8625a1",
+        "key": "More (1).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/More%20(1).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:More%20(1).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:More%20(1).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/More%20(1).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:More%20(1).pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/More%20(1).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 204283,
+        "storage_class": "L"
+      },
+      "More.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:edbda1a3e9eddc990aa6415a6285ce89",
+        "ext": "pdf",
+        "id": "e5834d56-0a2d-4023-bfbe-1714e2156ae3",
+        "key": "More.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/More.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:More.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:More.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/More.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:More.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/More.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 204283,
+        "storage_class": "L"
+      },
+      "New (2).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:db6a65266fba10bb742ec7cb3b772c37",
+        "ext": "pdf",
+        "id": "83bf217f-fe28-414f-9129-a3919bba420c",
+        "key": "New (2).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/New%20(2).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:New%20(2).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:New%20(2).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/New%20(2).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:New%20(2).pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/New%20(2).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 169393,
+        "storage_class": "L"
+      },
+      "New (3).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7c0e33ac4c14d08626d614ae6bb40d1f",
+        "ext": "pdf",
+        "id": "84baddc3-70db-45e6-9260-24280df26d9a",
+        "key": "New (3).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/New%20(3).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:New%20(3).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:New%20(3).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/New%20(3).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:New%20(3).pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/New%20(3).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 265282,
+        "storage_class": "L"
+      },
+      "New-1.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e36dbc58dc362933300f3e38f4d41483",
+        "ext": "pdf",
+        "id": "fe485840-529a-43ac-844c-69b07d105af5",
+        "key": "New-1.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/New-1.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:New-1.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:New-1.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/New-1.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:New-1.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/New-1.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 260528,
+        "storage_class": "L"
+      },
+      "Now_we_re_talking-1.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:aaba258fd3dcd09d5891bb5fb5fe5bed",
+        "ext": "pdf",
+        "id": "5710be86-c939-4cb1-9db6-19c8e48bb788",
+        "key": "Now_we_re_talking-1.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Now_we_re_talking-1.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Now_we_re_talking-1.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Now_we_re_talking-1.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Now_we_re_talking-1.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Now_we_re_talking-1.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Now_we_re_talking-1.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 193123,
+        "storage_class": "L"
+      },
+      "O.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:10832c4637669a079a6a5f881e6640f3",
+        "ext": "pdf",
+        "id": "4dcb9d50-f51e-48f1-952f-5742f631ed45",
+        "key": "O.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/O.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:O.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:O.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/O.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:O.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/O.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 203210,
+        "storage_class": "L"
+      },
+      "Omg.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e337c40d502863bf9e1fe09b3ad63295",
+        "ext": "pdf",
+        "id": "e8c97eed-5fcf-4b53-b678-a30997cf6627",
+        "key": "Omg.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Omg.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Omg.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Omg.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Omg.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Omg.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Omg.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 197847,
+        "storage_class": "L"
+      },
+      "Outline_for_the_theory_of_everything (1).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:21f678901910b68c74486fd9c2b35961",
+        "ext": "pdf",
+        "id": "abbddad3-1817-4d8d-a769-78f6a38ed7ee",
+        "key": "Outline_for_the_theory_of_everything (1).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Outline_for_the_theory_of_everything%20(1).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Outline_for_the_theory_of_everything%20(1).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Outline_for_the_theory_of_everything%20(1).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Outline_for_the_theory_of_everything%20(1).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Outline_for_the_theory_of_everything%20(1).pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Outline_for_the_theory_of_everything%20(1).pdf"
+        },
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 247580,
+        "storage_class": "L"
+      },
+      "Planck_s_view_of_the_cosmic_microwave_background.jpg": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:9c0e2ed741760a87f219f28b07f712ba",
+        "ext": "jpg",
+        "id": "952bdde3-ca80-4d35-90f2-d12e612261b7",
+        "key": "Planck_s_view_of_the_cosmic_microwave_background.jpg",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Planck_s_view_of_the_cosmic_microwave_background.jpg/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Planck_s_view_of_the_cosmic_microwave_background.jpg/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Planck_s_view_of_the_cosmic_microwave_background.jpg",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Planck_s_view_of_the_cosmic_microwave_background.jpg",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Planck_s_view_of_the_cosmic_microwave_background.jpg/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Planck_s_view_of_the_cosmic_microwave_background.jpg"
+        },
+        "metadata": {
+          "height": 3307,
+          "width": 4961
+        },
+        "mimetype": "image/jpeg",
+        "size": 7258705,
+        "storage_class": "L"
+      },
+      "Restart (1) (1) (1).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7c418f4fa1e34f73f37e1a74631aadf5",
+        "ext": "pdf",
+        "id": "0bee5111-2574-4273-bc3a-f3af36a45d1f",
+        "key": "Restart (1) (1) (1).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Restart%20(1)%20(1)%20(1).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Restart%20(1)%20(1)%20(1).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Restart%20(1)%20(1)%20(1).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Restart%20(1)%20(1)%20(1).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Restart%20(1)%20(1)%20(1).pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Restart%20(1)%20(1)%20(1).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 193815,
+        "storage_class": "L"
+      },
+      "Restart.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ff14987e8f88e4b4220fe78f021b6c3b",
+        "ext": "pdf",
+        "id": "953a67e6-055d-4f16-8ea1-600a890038f8",
+        "key": "Restart.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Restart.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Restart.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Restart.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Restart.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Restart.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Restart.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 190868,
+        "storage_class": "L"
+      },
+      "Something_else.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:41de75b82be3536f6a4e54e3e647c4e4",
+        "ext": "pdf",
+        "id": "c1b07397-d4f0-4f03-9988-2d05ad5a10cc",
+        "key": "Something_else.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Something_else.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Something_else.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Something_else.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Something_else.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Something_else.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Something_else.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 189005,
+        "storage_class": "L"
+      },
+      "TOE-1.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:db8b0628b2a14d962d81f18a08082471",
+        "ext": "pdf",
+        "id": "ce1094d3-6bc6-4273-82fc-fdbe084f1eff",
+        "key": "TOE-1.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-1.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:TOE-1.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:TOE-1.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/TOE-1.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:TOE-1.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-1.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 222886,
+        "storage_class": "L"
+      },
+      "TOE-10.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:46e8371c4f5c3c3a1ab66ab7516f1d81",
+        "ext": "pdf",
+        "id": "7093dfef-8224-4c00-bf23-e246cc78842a",
+        "key": "TOE-10.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-10.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:TOE-10.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:TOE-10.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/TOE-10.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:TOE-10.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-10.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 302761,
+        "storage_class": "L"
+      },
+      "TOE-11.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:57701b5534986f5b2b6f06f0be4ccde0",
+        "ext": "pdf",
+        "id": "1fdec840-cd8d-4a0a-b11b-f8018ba7fbee",
+        "key": "TOE-11.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-11.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:TOE-11.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:TOE-11.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/TOE-11.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:TOE-11.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-11.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 308574,
+        "storage_class": "L"
+      },
+      "TOE-12.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:95c3e93d3293b87b297625a5e22c57c4",
+        "ext": "pdf",
+        "id": "4b872e80-7bf6-49a8-b548-47eb48560a1f",
+        "key": "TOE-12.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-12.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:TOE-12.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:TOE-12.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/TOE-12.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:TOE-12.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-12.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 359110,
+        "storage_class": "L"
+      },
+      "TOE-13.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:effe7d2003f4f302740f968aa0bf1671",
+        "ext": "pdf",
+        "id": "40743342-bd39-4264-af26-d6dcdb1acc0b",
+        "key": "TOE-13.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-13.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:TOE-13.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:TOE-13.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/TOE-13.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:TOE-13.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-13.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 356184,
+        "storage_class": "L"
+      },
+      "TOE-14-1.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:fe272c2e2b211c8adcec240574c5eb20",
+        "ext": "pdf",
+        "id": "52090504-ab22-4758-bc88-4a0624037473",
+        "key": "TOE-14-1.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-14-1.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:TOE-14-1.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:TOE-14-1.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/TOE-14-1.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:TOE-14-1.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-14-1.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 356916,
+        "storage_class": "L"
+      },
+      "TOE-14.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:fe272c2e2b211c8adcec240574c5eb20",
+        "ext": "pdf",
+        "id": "d728cf7f-91ce-406c-bfae-8847a5a4ed90",
+        "key": "TOE-14.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-14.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:TOE-14.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:TOE-14.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/TOE-14.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:TOE-14.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-14.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 356916,
+        "storage_class": "L"
+      },
+      "TOE-2.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:eba948ee492f28164e9cee1877e5c1fc",
+        "ext": "pdf",
+        "id": "828c860b-6a64-4e0d-9f6e-9be2708a314f",
+        "key": "TOE-2.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-2.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:TOE-2.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:TOE-2.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/TOE-2.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:TOE-2.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-2.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 230286,
+        "storage_class": "L"
+      },
+      "TOE-3.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:81bea290af47342274da439e06a24a11",
+        "ext": "pdf",
+        "id": "2f2dcee6-2abc-4d55-8625-d84bf27b214c",
+        "key": "TOE-3.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-3.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:TOE-3.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:TOE-3.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/TOE-3.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:TOE-3.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-3.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 242164,
+        "storage_class": "L"
+      },
+      "TOE-4.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:65fda6d1dddcff47b2351be71daab65e",
+        "ext": "pdf",
+        "id": "ceeb2a69-f87e-4fe7-9fb1-1faf2eacbe18",
+        "key": "TOE-4.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-4.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:TOE-4.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:TOE-4.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/TOE-4.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:TOE-4.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-4.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 250464,
+        "storage_class": "L"
+      },
+      "TOE-5.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:9ff92e084b43c081f4d18ad3c26ad127",
+        "ext": "pdf",
+        "id": "5a24d749-e25b-4a9d-85d9-7c9c866bc413",
+        "key": "TOE-5.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-5.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:TOE-5.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:TOE-5.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/TOE-5.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:TOE-5.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-5.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 275570,
+        "storage_class": "L"
+      },
+      "TOE-6.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:9ff92e084b43c081f4d18ad3c26ad127",
+        "ext": "pdf",
+        "id": "2a2f7f1f-a10d-43ca-b252-34b4f006a8fc",
+        "key": "TOE-6.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-6.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:TOE-6.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:TOE-6.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/TOE-6.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:TOE-6.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-6.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 275570,
+        "storage_class": "L"
+      },
+      "TOE-7.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:46e8371c4f5c3c3a1ab66ab7516f1d81",
+        "ext": "pdf",
+        "id": "cf461947-57a3-4eb0-9c90-bc42f1a89068",
+        "key": "TOE-7.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-7.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:TOE-7.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:TOE-7.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/TOE-7.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:TOE-7.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-7.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 302761,
+        "storage_class": "L"
+      },
+      "TOE-8.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:46e8371c4f5c3c3a1ab66ab7516f1d81",
+        "ext": "pdf",
+        "id": "f3e99b33-6290-499f-a73a-07a1b3f6748d",
+        "key": "TOE-8.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-8.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:TOE-8.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:TOE-8.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/TOE-8.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:TOE-8.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-8.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 302761,
+        "storage_class": "L"
+      },
+      "TOE-9.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:46e8371c4f5c3c3a1ab66ab7516f1d81",
+        "ext": "pdf",
+        "id": "a91876bf-f8cc-42ac-b23d-b6de4218ddd6",
+        "key": "TOE-9.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-9.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:TOE-9.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:TOE-9.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/TOE-9.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:TOE-9.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-9.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 302761,
+        "storage_class": "L"
+      },
+      "TOE.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:99cdfa11a65ecf973c2b284da7995dcc",
+        "ext": "pdf",
+        "id": "2e74e517-1a19-4949-b8e0-1f7ebf373979",
+        "key": "TOE.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:TOE.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:TOE.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/TOE.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:TOE.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 127750,
+        "storage_class": "L"
+      },
+      "Testing_validity.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e359291a449075e12d59ede48d69be0c",
+        "ext": "pdf",
+        "id": "4160f928-768b-4369-8237-40c89c4ce251",
+        "key": "Testing_validity.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Testing_validity.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Testing_validity.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Testing_validity.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Testing_validity.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Testing_validity.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Testing_validity.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 178235,
+        "storage_class": "L"
+      },
+      "Tests.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3be0107df0f301a08a3fc9bf0e6e9476",
+        "ext": "pdf",
+        "id": "d2d8070d-b00d-473b-9377-8083e3c1dcf3",
+        "key": "Tests.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Tests.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Tests.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Tests.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Tests.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Tests.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Tests.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 210140,
+        "storage_class": "L"
+      },
+      "The_beginning (3) (1) (1).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1287e4041e4ef0f1a939d80a8758938c",
+        "ext": "pdf",
+        "id": "ca032cbf-aefb-4710-afae-7636a7e0e7ec",
+        "key": "The_beginning (3) (1) (1).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/The_beginning%20(3)%20(1)%20(1).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:The_beginning%20(3)%20(1)%20(1).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:The_beginning%20(3)%20(1)%20(1).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/The_beginning%20(3)%20(1)%20(1).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:The_beginning%20(3)%20(1)%20(1).pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/The_beginning%20(3)%20(1)%20(1).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 112578,
+        "storage_class": "L"
+      },
+      "The_beginning (3) (1).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1287e4041e4ef0f1a939d80a8758938c",
+        "ext": "pdf",
+        "id": "5a01a3cc-9e76-45a2-b391-a7ad417652c7",
+        "key": "The_beginning (3) (1).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/The_beginning%20(3)%20(1).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:The_beginning%20(3)%20(1).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:The_beginning%20(3)%20(1).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/The_beginning%20(3)%20(1).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:The_beginning%20(3)%20(1).pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/The_beginning%20(3)%20(1).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 112578,
+        "storage_class": "L"
+      },
+      "The_theory_begins (1).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:54639268c2eb24fc8683ebf1492022c3",
+        "ext": "pdf",
+        "id": "f207e2ea-dc86-40d7-ae8f-06cc0412a1cf",
+        "key": "The_theory_begins (1).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/The_theory_begins%20(1).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:The_theory_begins%20(1).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:The_theory_begins%20(1).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/The_theory_begins%20(1).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:The_theory_begins%20(1).pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/The_theory_begins%20(1).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 364623,
+        "storage_class": "L"
+      },
+      "The_theory_of_everything-1.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:cff508c890e7cbde44d9077b947ed5dd",
+        "ext": "pdf",
+        "id": "a818be05-fc40-4b56-a053-93984fc88e27",
+        "key": "The_theory_of_everything-1.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/The_theory_of_everything-1.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:The_theory_of_everything-1.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:The_theory_of_everything-1.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/The_theory_of_everything-1.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:The_theory_of_everything-1.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/The_theory_of_everything-1.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 209101,
+        "storage_class": "L"
+      },
+      "The_undefinable_collaboration_to_definition (1).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:32806965dcdb413ec9896a73e34827f0",
+        "ext": "pdf",
+        "id": "f773b57d-2945-422e-b311-f581ddf388ef",
+        "key": "The_undefinable_collaboration_to_definition (1).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/The_undefinable_collaboration_to_definition%20(1).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:The_undefinable_collaboration_to_definition%20(1).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:The_undefinable_collaboration_to_definition%20(1).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/The_undefinable_collaboration_to_definition%20(1).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:The_undefinable_collaboration_to_definition%20(1).pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/The_undefinable_collaboration_to_definition%20(1).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 204167,
+        "storage_class": "L"
+      },
+      "This_is_bulletproof.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:eae38573ac486540a8ac2b21f8b4265c",
+        "ext": "pdf",
+        "id": "ce4c2411-cfa1-4b67-a134-8b9c5fa94f0c",
+        "key": "This_is_bulletproof.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/This_is_bulletproof.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:This_is_bulletproof.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:This_is_bulletproof.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/This_is_bulletproof.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:This_is_bulletproof.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/This_is_bulletproof.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 179690,
+        "storage_class": "L"
+      },
+      "Truth_hurts-1 (1).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:718b9a45118b92ca3ab41d78b6836a95",
+        "ext": "pdf",
+        "id": "3c0a413e-f2b7-4b93-8820-4d4bf7db35d4",
+        "key": "Truth_hurts-1 (1).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Truth_hurts-1%20(1).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Truth_hurts-1%20(1).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Truth_hurts-1%20(1).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Truth_hurts-1%20(1).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Truth_hurts-1%20(1).pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Truth_hurts-1%20(1).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 181599,
+        "storage_class": "L"
+      },
+      "Unbreakable_V0.2.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d18339efa06f7bb2cfa5e538f49bd353",
+        "ext": "pdf",
+        "id": "caf6adec-b94c-4d50-9f29-7e08300a914c",
+        "key": "Unbreakable_V0.2.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Unbreakable_V0.2.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Unbreakable_V0.2.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Unbreakable_V0.2.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Unbreakable_V0.2.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Unbreakable_V0.2.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Unbreakable_V0.2.pdf"
+        },
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 348915,
+        "storage_class": "L"
+      },
+      "Very_theory.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3ac8d07a4abce3a0e2a3c39e2901f456",
+        "ext": "pdf",
+        "id": "af57a590-62e9-4af6-9012-af25d382bd90",
+        "key": "Very_theory.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Very_theory.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:Very_theory.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:Very_theory.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/Very_theory.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:Very_theory.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/Very_theory.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 224077,
+        "storage_class": "L"
+      },
+      "d52dab58-1d94-47ca-a3b3-9ac5051d31ba.png": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f9b3642dc255b507c274e330355aa5b1",
+        "ext": "png",
+        "id": "17985931-3e23-4f00-b6e5-8b08a3be675d",
+        "key": "d52dab58-1d94-47ca-a3b3-9ac5051d31ba.png",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/d52dab58-1d94-47ca-a3b3-9ac5051d31ba.png/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:d52dab58-1d94-47ca-a3b3-9ac5051d31ba.png/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:d52dab58-1d94-47ca-a3b3-9ac5051d31ba.png",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/d52dab58-1d94-47ca-a3b3-9ac5051d31ba.png",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:d52dab58-1d94-47ca-a3b3-9ac5051d31ba.png/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/d52dab58-1d94-47ca-a3b3-9ac5051d31ba.png"
+        },
+        "metadata": {
+          "height": 590,
+          "width": 1379
+        },
+        "mimetype": "image/png",
+        "size": 317705,
+        "storage_class": "L"
+      },
+      "e88bbdb0-88d1-4149-8c24-15686d69a1a0.png": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:03dfb876f50ea9d4fe9ed622c0cfd6e8",
+        "ext": "png",
+        "id": "ad693b3e-dac1-46db-b23d-e73399f834a8",
+        "key": "e88bbdb0-88d1-4149-8c24-15686d69a1a0.png",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/e88bbdb0-88d1-4149-8c24-15686d69a1a0.png/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:e88bbdb0-88d1-4149-8c24-15686d69a1a0.png/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:e88bbdb0-88d1-4149-8c24-15686d69a1a0.png",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/e88bbdb0-88d1-4149-8c24-15686d69a1a0.png",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:e88bbdb0-88d1-4149-8c24-15686d69a1a0.png/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/e88bbdb0-88d1-4149-8c24-15686d69a1a0.png"
+        },
+        "metadata": {
+          "height": 390,
+          "width": 989
+        },
+        "mimetype": "image/png",
+        "size": 20714,
+        "storage_class": "L"
+      },
+      "figFigure2.png": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:990491642d5da8485083ff575a819236",
+        "ext": "png",
+        "id": "c4429a52-11f6-4b14-ae9b-48cf4aceded3",
+        "key": "figFigure2.png",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/figFigure2.png/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:figFigure2.png/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:figFigure2.png",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/figFigure2.png",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:figFigure2.png/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/figFigure2.png"
+        },
+        "metadata": {
+          "height": 754,
+          "width": 1200
+        },
+        "mimetype": "image/png",
+        "size": 399344,
+        "storage_class": "L"
+      },
+      "main.tex": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:fa5240259c6265f96b677520a512f6f3",
+        "ext": "tex",
+        "id": "996b369a-2474-4fa1-9bad-192bcc1c6b6a",
+        "key": "main.tex",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/main.tex/content",
+          "self": "https://zenodo.org/api/records/15787938/files/main.tex"
+        },
+        "metadata": {},
+        "mimetype": "application/x-tex",
+        "size": 4689,
+        "storage_class": "L"
+      },
+      "solutions2 (1).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d7ee460472b28801e8fbb187bce98f81",
+        "ext": "pdf",
+        "id": "2451a421-8584-48a2-a8af-a1f880b0a80c",
+        "key": "solutions2 (1).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/solutions2%20(1).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15787938:solutions2%20(1).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15787938:solutions2%20(1).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15787938/canvas/solutions2%20(1).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15787938:solutions2%20(1).pdf/info.json",
+          "self": "https://zenodo.org/api/records/15787938/files/solutions2%20(1).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 2037269,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 24641938
+  },
+  "id": "15787938",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/15787938/access",
+    "access_grants": "https://zenodo.org/api/records/15787938/access/grants",
+    "access_links": "https://zenodo.org/api/records/15787938/access/links",
+    "access_request": "https://zenodo.org/api/records/15787938/access/request",
+    "access_users": "https://zenodo.org/api/records/15787938/access/users",
+    "archive": "https://zenodo.org/api/records/15787938/files-archive",
+    "archive_media": "https://zenodo.org/api/records/15787938/media-files-archive",
+    "communities": "https://zenodo.org/api/records/15787938/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/15787938/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.15787938",
+    "draft": "https://zenodo.org/api/records/15787938/draft",
+    "files": "https://zenodo.org/api/records/15787938/files",
+    "latest": "https://zenodo.org/api/records/15787938/versions/latest",
+    "latest_html": "https://zenodo.org/records/15787938/latest",
+    "media_files": "https://zenodo.org/api/records/15787938/media-files",
+    "parent": "https://zenodo.org/api/records/15400288",
+    "parent_doi": "https://doi.org/10.5281/zenodo.15400288",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15400288",
+    "parent_html": "https://zenodo.org/records/15400288",
+    "preview_html": "https://zenodo.org/records/15787938?preview=1",
+    "requests": "https://zenodo.org/api/records/15787938/requests",
+    "reserve_doi": "https://zenodo.org/api/records/15787938/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/15787938",
+    "self_doi": "https://doi.org/10.5281/zenodo.15787938",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15787938",
+    "self_html": "https://zenodo.org/records/15787938",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:15787938/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:15787938/sequence/default",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:15787938:The_beginning%20(3)%20(1).pdf/full/%5E10,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:15787938:The_beginning%20(3)%20(1).pdf/full/%5E100,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:15787938:The_beginning%20(3)%20(1).pdf/full/%5E1200,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:15787938:The_beginning%20(3)%20(1).pdf/full/%5E250,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:15787938:The_beginning%20(3)%20(1).pdf/full/%5E50,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:15787938:The_beginning%20(3)%20(1).pdf/full/%5E750,/0/default.jpg"
+    },
+    "versions": "https://zenodo.org/api/records/15787938/versions"
+  },
+  "media_files": {
+    "count": 71,
+    "enabled": true,
+    "entries": {
+      "070568cb-fcbc-42c0-8b4d-4a488d523557.png.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "8c621952-e2b7-46bb-9bd9-e35c0dbe94ca",
+        "key": "070568cb-fcbc-42c0-8b4d-4a488d523557.png.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/070568cb-fcbc-42c0-8b4d-4a488d523557.png.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/070568cb-fcbc-42c0-8b4d-4a488d523557.png.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "74423374-d207-44eb-b9e6-45bfdedb3d31",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "0cc33f29-5581-45c2-b89f-fe4e2aa2f229.png.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "75fdeed2-9648-4384-8615-0be343aaa914",
+        "key": "0cc33f29-5581-45c2-b89f-fe4e2aa2f229.png.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/0cc33f29-5581-45c2-b89f-fe4e2aa2f229.png.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/0cc33f29-5581-45c2-b89f-fe4e2aa2f229.png.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "b1f22327-c3db-422f-b76a-773a1d6426ab",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "4c5fbcee-0546-4c30-ab22-f976ad6ee9d0.png.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "a3e44c32-ba21-4ba5-83df-11f65d920afa",
+        "key": "4c5fbcee-0546-4c30-ab22-f976ad6ee9d0.png.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/4c5fbcee-0546-4c30-ab22-f976ad6ee9d0.png.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/4c5fbcee-0546-4c30-ab22-f976ad6ee9d0.png.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "bdfc9ce9-73c0-40fa-9274-b2ebe9c533bd",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "80465747-e4e3-4fa8-aec7-60879c1a77a4.png.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "e671afb0-90b9-49ae-b5fa-5ee9a8801bc7",
+        "key": "80465747-e4e3-4fa8-aec7-60879c1a77a4.png.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/80465747-e4e3-4fa8-aec7-60879c1a77a4.png.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/80465747-e4e3-4fa8-aec7-60879c1a77a4.png.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "02f28488-33fd-4935-bc8a-b75653f206a9",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "95672d8f-f46f-4adb-bceb-8639fad6b0b6.png.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "65283dca-d13f-4467-975e-4cc136ebfef6",
+        "key": "95672d8f-f46f-4adb-bceb-8639fad6b0b6.png.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/95672d8f-f46f-4adb-bceb-8639fad6b0b6.png.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/95672d8f-f46f-4adb-bceb-8639fad6b0b6.png.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "279e6ec3-e3a2-45e1-aae4-244728ef91b7",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Again.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "d82cb59b-8448-45da-b3bc-699ed0912911",
+        "key": "Again.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Again.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Again.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "d3b225c0-37e2-4907-a5ad-1bbccb4594f8",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Appendix_cmb_data.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "4675c8ee-a3d0-4b76-ae4a-66227dea81fe",
+        "key": "Appendix_cmb_data.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Appendix_cmb_data.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Appendix_cmb_data.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "e9937938-3272-4df6-934b-8fed16e413dc",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Ayotte_topological_Phenomenon_that_begins_logic (1).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "0fcaac36-f935-4820-a431-bff184cc3622",
+        "key": "Ayotte_topological_Phenomenon_that_begins_logic (1).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Ayotte_topological_Phenomenon_that_begins_logic%20(1).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Ayotte_topological_Phenomenon_that_begins_logic%20(1).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "177fc7c6-b448-4412-b74b-c876ecc961bb",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Begin_AGAIN.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "5cf65188-e838-4893-9edf-2251c4693d46",
+        "key": "Begin_AGAIN.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Begin_AGAIN.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Begin_AGAIN.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "296c2410-e48c-42be-9eef-ece100550dcd",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Bullet.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "637af425-4479-4d61-aa88-c748b2397714",
+        "key": "Bullet.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Bullet.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Bullet.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "86bdaa50-308d-4f9d-a56a-c30979da07b5",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "CMB-1.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "8b543560-1cc9-418c-be2f-611d7d95ec64",
+        "key": "CMB-1.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/CMB-1.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/CMB-1.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "2f1206fc-cf48-4978-a105-bf7f54e47e2a",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "CMB.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "04728efc-ce59-480c-bf0f-29e3057b63ed",
+        "key": "CMB.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/CMB.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/CMB.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "b1d68cfc-a15f-428f-be03-562168d1a083",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "CMB_DATA.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "8f7c3737-a390-4e00-9fcf-6f7293c64320",
+        "key": "CMB_DATA.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/CMB_DATA.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/CMB_DATA.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "7724bbfd-09c1-41ed-9f6e-5c262af1de14",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Chandler_Ayotte-1.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "44c93e91-3ac5-41e7-bb00-3cd4015aab12",
+        "key": "Chandler_Ayotte-1.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Chandler_Ayotte-1.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Chandler_Ayotte-1.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "26ef96c8-d9a3-4983-9ec0-22d65fc08a0a",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Co_lab-1.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "ec11b681-4da6-4893-801d-6008a2846a3d",
+        "key": "Co_lab-1.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Co_lab-1.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Co_lab-1.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "82e0623a-3008-4315-b4a0-0606f91c2845",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Core (1) (4).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "5f114195-baf0-4194-bb05-f6598395034c",
+        "key": "Core (1) (4).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Core%20(1)%20(4).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Core%20(1)%20(4).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "29c4d257-e5d4-428b-84a4-434aab3a150c",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Different.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "f4b1f7ac-57ee-45dd-b2a5-e7a6d69a399c",
+        "key": "Different.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Different.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Different.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "204a209e-839d-4f86-8e60-c149e416df94",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Done.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "0406eb14-e3a5-4e5c-8079-3537bd2fef16",
+        "key": "Done.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Done.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Done.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "d5250a2a-0db0-4739-b241-9ad5d4e9ae00",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Final-1.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "990dd590-98af-443e-bef8-732ba756a7d5",
+        "key": "Final-1.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Final-1.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Final-1.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "6a9eddb4-152e-43c1-93fa-6581abd114a9",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "For_you (1).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "f9ba3ece-7fb3-4251-9de2-462647e04437",
+        "key": "For_you (1).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/For_you%20(1).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/For_you%20(1).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "04be8312-ef4c-46a3-b2b2-1eca25fda2b0",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Full_documents_of_validation_and_full_updated_Horizon_Theory-2 (1).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "d3fe5c7d-24b9-4b01-91cd-517806155373",
+        "key": "Full_documents_of_validation_and_full_updated_Horizon_Theory-2 (1).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Full_documents_of_validation_and_full_updated_Horizon_Theory-2%20(1).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Full_documents_of_validation_and_full_updated_Horizon_Theory-2%20(1).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "84a8b943-d452-402c-8574-1b466e63ed4d",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Full_documents_of_validation_and_full_updated_Horizon_Theory-2.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "a964e15c-abbb-45af-9776-af227adc6dc2",
+        "key": "Full_documents_of_validation_and_full_updated_Horizon_Theory-2.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Full_documents_of_validation_and_full_updated_Horizon_Theory-2.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Full_documents_of_validation_and_full_updated_Horizon_Theory-2.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "abc21009-57f4-48e0-b501-ea2d354bfc54",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Full_theory-1.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "6a515470-b99a-4b6c-b1fb-a088908631cc",
+        "key": "Full_theory-1.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Full_theory-1.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Full_theory-1.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "51197118-a11c-45ed-be5f-b15f1b8c526b",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Full_theory-2.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "5b8f20e5-cb0d-44aa-9dea-54f2cecb0186",
+        "key": "Full_theory-2.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Full_theory-2.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Full_theory-2.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "6a30f4c5-b3f7-4409-b73e-2c120006572a",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Full_theory-3.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "d6b6dbfc-2379-413f-8237-d6049924a96c",
+        "key": "Full_theory-3.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Full_theory-3.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Full_theory-3.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "60a21a29-1c01-49ca-996a-2628996ff425",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Full_theory-4.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "639d1a59-d488-4410-8b76-26658fd8fc27",
+        "key": "Full_theory-4.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Full_theory-4.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Full_theory-4.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "03831499-83c0-4cce-9d0b-d4c377548ffc",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Full_theory.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "b18327c0-d4a3-4e6e-b074-08a3c7c524b1",
+        "key": "Full_theory.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Full_theory.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Full_theory.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "dd5b3227-e5c2-44ea-97c0-b835c1c21862",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "More (1).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "87c13e92-f112-46ca-91a6-12dc1737c819",
+        "key": "More (1).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/More%20(1).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/More%20(1).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "f0be5a16-d7b6-432d-abaa-e1902c8625a1",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "More.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "4a44a5aa-c278-4381-8cf0-eab76b474e1d",
+        "key": "More.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/More.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/More.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "e5834d56-0a2d-4023-bfbe-1714e2156ae3",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "New (2).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "2c704c4a-f712-45d6-b7a9-95cfd46b4b64",
+        "key": "New (2).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/New%20(2).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/New%20(2).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "83bf217f-fe28-414f-9129-a3919bba420c",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "New (3).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "7636fc78-2506-4188-8808-6aad95a5cee2",
+        "key": "New (3).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/New%20(3).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/New%20(3).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "84baddc3-70db-45e6-9260-24280df26d9a",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "New-1.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "52375721-520b-40c8-8626-e8a0fbc150c1",
+        "key": "New-1.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/New-1.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/New-1.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "fe485840-529a-43ac-844c-69b07d105af5",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Now_we_re_talking-1.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "9b9fe155-a3cc-4c52-97f5-2980c0cf2e6b",
+        "key": "Now_we_re_talking-1.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Now_we_re_talking-1.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Now_we_re_talking-1.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "5710be86-c939-4cb1-9db6-19c8e48bb788",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "O.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "976bfabb-714c-44a2-b47a-7f066b95b3e9",
+        "key": "O.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/O.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/O.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "4dcb9d50-f51e-48f1-952f-5742f631ed45",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Omg.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "8e699320-59c1-4250-994f-f6d91f533671",
+        "key": "Omg.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Omg.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Omg.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "e8c97eed-5fcf-4b53-b678-a30997cf6627",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Outline_for_the_theory_of_everything (1).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "aa28bfd9-5bdb-412a-b241-c9bd567bd7cb",
+        "key": "Outline_for_the_theory_of_everything (1).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Outline_for_the_theory_of_everything%20(1).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Outline_for_the_theory_of_everything%20(1).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "abbddad3-1817-4d8d-a769-78f6a38ed7ee",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Planck_s_view_of_the_cosmic_microwave_background.jpg.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "c32c41ca-cd4e-4452-92ba-d4f1cf0497e7",
+        "key": "Planck_s_view_of_the_cosmic_microwave_background.jpg.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Planck_s_view_of_the_cosmic_microwave_background.jpg.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Planck_s_view_of_the_cosmic_microwave_background.jpg.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "952bdde3-ca80-4d35-90f2-d12e612261b7",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Restart (1) (1) (1).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "1c8e7749-3361-40d0-a1bf-cb87a66dec09",
+        "key": "Restart (1) (1) (1).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Restart%20(1)%20(1)%20(1).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Restart%20(1)%20(1)%20(1).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "0bee5111-2574-4273-bc3a-f3af36a45d1f",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Restart.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "530d4e34-ee80-483c-9c19-0b25fc446f27",
+        "key": "Restart.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Restart.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Restart.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "953a67e6-055d-4f16-8ea1-600a890038f8",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Something_else.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "2a1716b0-c045-486c-b7af-cf2f67424a68",
+        "key": "Something_else.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Something_else.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Something_else.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "c1b07397-d4f0-4f03-9988-2d05ad5a10cc",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "TOE-1.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "46d1d2bf-4910-4d01-8890-884fb7e5290b",
+        "key": "TOE-1.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-1.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-1.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "ce1094d3-6bc6-4273-82fc-fdbe084f1eff",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "TOE-10.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "f3c1d895-fb96-49da-84d8-a819580df27f",
+        "key": "TOE-10.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-10.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-10.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "7093dfef-8224-4c00-bf23-e246cc78842a",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "TOE-11.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "cb134bbc-21a8-46a9-b6ea-05e4d5dc8da8",
+        "key": "TOE-11.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-11.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-11.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "1fdec840-cd8d-4a0a-b11b-f8018ba7fbee",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "TOE-12.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "af802940-47b3-4e74-aca3-b4d842dc781f",
+        "key": "TOE-12.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-12.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-12.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "4b872e80-7bf6-49a8-b548-47eb48560a1f",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "TOE-13.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "2cdd4edd-407c-45c8-a957-d1919adb4d29",
+        "key": "TOE-13.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-13.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-13.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "40743342-bd39-4264-af26-d6dcdb1acc0b",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "TOE-14-1.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "24f49c69-b1b7-4ecd-a539-62797e581b1c",
+        "key": "TOE-14-1.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-14-1.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-14-1.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "52090504-ab22-4758-bc88-4a0624037473",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "TOE-14.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "2876d961-3da9-4d68-a976-537170b45307",
+        "key": "TOE-14.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-14.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-14.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "d728cf7f-91ce-406c-bfae-8847a5a4ed90",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "TOE-2.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "c21ce912-adc3-4afc-bb7e-1082b26bb1cf",
+        "key": "TOE-2.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-2.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-2.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "828c860b-6a64-4e0d-9f6e-9be2708a314f",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "TOE-3.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "e695a6d7-4c61-4b32-8d23-d34ef3180f79",
+        "key": "TOE-3.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-3.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-3.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "2f2dcee6-2abc-4d55-8625-d84bf27b214c",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "TOE-4.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "456a7b71-52e2-43ca-8d85-c350d0b40a29",
+        "key": "TOE-4.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-4.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-4.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "ceeb2a69-f87e-4fe7-9fb1-1faf2eacbe18",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "TOE-5.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "72248b26-5aea-4c80-becb-318c8e8e773b",
+        "key": "TOE-5.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-5.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-5.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "5a24d749-e25b-4a9d-85d9-7c9c866bc413",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "TOE-6.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "902385d5-c4ae-4549-bd03-2ca6ff105f45",
+        "key": "TOE-6.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-6.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-6.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "2a2f7f1f-a10d-43ca-b252-34b4f006a8fc",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "TOE-7.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "42f09627-0020-4bbc-81ae-eb9c4f62b208",
+        "key": "TOE-7.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-7.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-7.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "cf461947-57a3-4eb0-9c90-bc42f1a89068",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "TOE-8.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "5fd84e41-6bed-483d-8e43-1f96c4438807",
+        "key": "TOE-8.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-8.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-8.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "f3e99b33-6290-499f-a73a-07a1b3f6748d",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "TOE-9.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "7aefe565-3533-43e5-b975-356c4d80876f",
+        "key": "TOE-9.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE-9.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE-9.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "a91876bf-f8cc-42ac-b23d-b6de4218ddd6",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "TOE.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "e1061253-a036-42cd-b075-87b01ba168e4",
+        "key": "TOE.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/TOE.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/TOE.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "2e74e517-1a19-4949-b8e0-1f7ebf373979",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Testing_validity.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "fd583c13-03fa-4a55-8c05-b870d01a49eb",
+        "key": "Testing_validity.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Testing_validity.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Testing_validity.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "4160f928-768b-4369-8237-40c89c4ce251",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Tests.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "4c85ad7b-565e-4237-909f-859cedce2803",
+        "key": "Tests.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Tests.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Tests.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "d2d8070d-b00d-473b-9377-8083e3c1dcf3",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "The_beginning (3) (1) (1).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "0a43bfd3-a8b8-4c58-a741-5e97ce08ea9f",
+        "key": "The_beginning (3) (1) (1).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/The_beginning%20(3)%20(1)%20(1).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/The_beginning%20(3)%20(1)%20(1).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "ca032cbf-aefb-4710-afae-7636a7e0e7ec",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "The_beginning (3) (1).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "45642a3e-bd7d-486c-83d9-5d5b69dac797",
+        "key": "The_beginning (3) (1).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/The_beginning%20(3)%20(1).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/The_beginning%20(3)%20(1).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "5a01a3cc-9e76-45a2-b391-a7ad417652c7",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "The_theory_begins (1).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "61deeb6c-c8b5-46ee-8e06-4c085b105c66",
+        "key": "The_theory_begins (1).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/The_theory_begins%20(1).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/The_theory_begins%20(1).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "f207e2ea-dc86-40d7-ae8f-06cc0412a1cf",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "The_theory_of_everything-1.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "7bd353af-6032-4705-a2ba-009151058a3b",
+        "key": "The_theory_of_everything-1.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/The_theory_of_everything-1.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/The_theory_of_everything-1.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "a818be05-fc40-4b56-a053-93984fc88e27",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "The_undefinable_collaboration_to_definition (1).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "e0b00d85-cd0b-43ee-a69e-e588908a58c3",
+        "key": "The_undefinable_collaboration_to_definition (1).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/The_undefinable_collaboration_to_definition%20(1).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/The_undefinable_collaboration_to_definition%20(1).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "f773b57d-2945-422e-b311-f581ddf388ef",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "This_is_bulletproof.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "255014be-3cbc-449f-9178-fda4d08c82db",
+        "key": "This_is_bulletproof.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/This_is_bulletproof.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/This_is_bulletproof.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "ce4c2411-cfa1-4b67-a134-8b9c5fa94f0c",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Truth_hurts-1 (1).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "e0089020-f769-4f33-b9ac-bc7628144ac8",
+        "key": "Truth_hurts-1 (1).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Truth_hurts-1%20(1).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Truth_hurts-1%20(1).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "3c0a413e-f2b7-4b93-8820-4d4bf7db35d4",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Unbreakable_V0.2.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "df2040c7-1edd-41ff-82b0-7da8c083ff8d",
+        "key": "Unbreakable_V0.2.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Unbreakable_V0.2.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Unbreakable_V0.2.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "caf6adec-b94c-4d50-9f29-7e08300a914c",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Very_theory.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "a24b22c4-c865-4c1a-9669-92d5ae84796f",
+        "key": "Very_theory.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/Very_theory.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/Very_theory.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "af57a590-62e9-4af6-9012-af25d382bd90",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "d52dab58-1d94-47ca-a3b3-9ac5051d31ba.png.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "f5a3f903-4bb4-42ee-a80f-b6613fbe9d70",
+        "key": "d52dab58-1d94-47ca-a3b3-9ac5051d31ba.png.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/d52dab58-1d94-47ca-a3b3-9ac5051d31ba.png.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/d52dab58-1d94-47ca-a3b3-9ac5051d31ba.png.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "17985931-3e23-4f00-b6e5-8b08a3be675d",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "e88bbdb0-88d1-4149-8c24-15686d69a1a0.png.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "55eacbe0-ce26-4238-a207-a7f89ae40597",
+        "key": "e88bbdb0-88d1-4149-8c24-15686d69a1a0.png.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/e88bbdb0-88d1-4149-8c24-15686d69a1a0.png.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/e88bbdb0-88d1-4149-8c24-15686d69a1a0.png.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "ad693b3e-dac1-46db-b23d-e73399f834a8",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "figFigure2.png.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "09a2b65a-a054-454e-ae70-9b69a2d0d217",
+        "key": "figFigure2.png.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/figFigure2.png.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/figFigure2.png.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "c4429a52-11f6-4b14-ae9b-48cf4aceded3",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "solutions2 (1).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "86fc31c1-bdd2-4b1c-b495-c2b0f93cb439",
+        "key": "solutions2 (1).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15787938/files/solutions2%20(1).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15787938/files/solutions2%20(1).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "2451a421-8584-48a2-a8af-a1f880b0a80c",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Ayotte",
+          "given_name": "Chandler",
+          "identifiers": [
+            {
+              "identifier": "0009-0007-9720-7049",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Ayotte, Chandler",
+          "type": "personal"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "Marek Pawel Bargiel",
+          "given_name": "Marek Pawel Bargiel",
+          "name": "Marek Pawel Bargiel, Marek Pawel Bargiel",
+          "type": "personal"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        }
+      },
+      {
+        "person_or_org": {
+          "family_name": "Marcin Mo\u015bcicki",
+          "given_name": "Marcin Mo\u015bcicki",
+          "name": "Marcin Mo\u015bcicki, Marcin Mo\u015bcicki",
+          "type": "personal"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        }
+      }
+    ],
+    "description": "<p>This work presents a falsifiable cosmological model in which the Cosmic Microwave Background (CMB) arises not from primordial quantum fluctuations or inflation, but from recursive radiation emitted by a hierarchy of geometrically defined causal horizon surfaces.&nbsp;</p>\n<p>The model reproduces the Planckian envelope of the CMB without invoking inflation, particle-based singularities, or initial scalar field perturbations. It introduces natural damping (Silk-like suppression) via an exponential cutoff at high wavenumbers, derived from geometric shear and horizon depth rather than baryon-photon interactions.</p>\n<p>&nbsp;</p>\n<p>Furthermore, the model generates E-mode polarization and TE cross-correlation from recursive surface shear rather than Thomson scattering, producing all primary anisotropy spectra (CTT\u2097, CEE\u2097, CTE\u2097) in agreement with Planck 2018 data. Simulations yield residuals within observational uncertainty across the full multipole range.</p>\n<p>&nbsp;</p>\n<p>This paper is a companion validation and extract of the complete Recursive Horizon Theory (a proposed Theory of Everything), focusing specifically on the observable CMB structure and radiation origin. All equations, numerical fit methods, and observational comparisons are included. No free parameters are tuned beyond the recursion depth and entropy geometry derived from the core theory.</p>",
+    "publication_date": "2025-04-18",
+    "publisher": "Zenodo",
+    "resource_type": {
+      "id": "publication-preprint",
+      "title": {
+        "de": "Preprint",
+        "en": "Preprint"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "title": "Genesis of horizon"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "1303090"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "default": "14e5c577-6916-4b29-a464-aca716cb3070",
+      "entries": [
+        {
+          "access": {
+            "member_policy": "open",
+            "members_visibility": "public",
+            "record_submission_policy": "open",
+            "review_policy": "closed",
+            "visibility": "public"
+          },
+          "children": {
+            "allow": false
+          },
+          "created": "2024-12-27T10:21:39.297217+00:00",
+          "custom_fields": {
+            "subjects": [
+              {
+                "id": "euroscivoc:793"
+              },
+              {
+                "id": "mesh:D003243"
+              },
+              {
+                "id": "mesh:D019369"
+              }
+            ]
+          },
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "id": "14e5c577-6916-4b29-a464-aca716cb3070",
+          "links": {},
+          "metadata": {
+            "description": "A community of people with broad interdisciplinary interests, focused on developing a ToE, based on the Geometric Unity Theory (GUT) and spacetime as a self-intersecting M\u00f6bius strip in 5 dimensions.",
+            "title": "Unus Mundus - Theory of Everything",
+            "type": {
+              "id": "project"
+            }
+          },
+          "revision_id": 10,
+          "slug": "toe",
+          "updated": "2025-05-26T06:53:28.874556+00:00"
+        }
+      ],
+      "ids": [
+        "14e5c577-6916-4b29-a464-aca716cb3070"
+      ]
+    },
+    "id": "15400288",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.15400288",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.15787938",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:15787938",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 3,
+  "stats": {
+    "all_versions": {
+      "data_volume": 23054115.0,
+      "downloads": 114,
+      "unique_downloads": 95,
+      "unique_views": 34,
+      "views": 42
+    },
+    "this_version": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2025-07-02T03:05:59.123863+00:00",
+  "versions": {
+    "index": 6,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
+}
